@@ -43,3 +43,6 @@ rsconnect/
 *.snm
 *.gz
 *.toc
+
+# Mac aux files
+.DS_Store
