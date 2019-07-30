@@ -47,7 +47,7 @@
 \vspace{0.2in}
 
 {\tiny
-This research was supported by Iowa State University Presidential Initiative on Interdisciplinary Research. 
+This research was supported by Iowa State University Presidential Interdisciplinary Research Initiative. 
 }
 
 \end{frame}
